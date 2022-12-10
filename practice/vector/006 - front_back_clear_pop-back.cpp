@@ -30,3 +30,14 @@ int main()
 		cout << "Not Empty";
 	}
 }
+
+/* output
+
+1 2 3 4 5
+1
+5
+5
+0
+Vector is empty.
+
+*/
